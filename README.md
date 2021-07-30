@@ -1,2 +1,2 @@
-# morpion
-Un morpion en Golang
+# Tic Tac Toe
+This is my first project in Golang.
